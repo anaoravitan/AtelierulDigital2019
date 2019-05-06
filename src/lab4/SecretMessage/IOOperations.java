@@ -1,8 +1,6 @@
 package lab4.SecretMessage;
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.Scanner;
 
 public class IOOperations {
@@ -14,17 +12,16 @@ public class IOOperations {
             int c;
             while ((c = fr.read()) != -1) {
                 char chr = (char) c;
-                if(chr>='A' && chr<='Z' && chr!='X')
-                text += chr;
-                else
-                    if (chr=='X')
-                        text+= " ";
+                if (chr >= 'A' && chr <= 'Z' && chr != 'X')
+                    text += chr;
+                else if (chr == 'X')
+                    text += " ";
             }
         } catch (FileNotFoundException exception) {
             System.out.println("FILE NOT FOUND");
         } catch (IOException exception) {
             System.out.println("IO EXCEPTION");
-        }finally {
+        } finally {
             closeFile(fr);
         }
         return text;
@@ -33,17 +30,28 @@ public class IOOperations {
     private void closeFile(FileReader fr) {
         try {
             if (fr != null) fr.close();
-        }catch (IOException e){
+        } catch (IOException e) {
             System.out.println("Unable to access close stream");
         }
     }
 
     public void readFromKeyboard() {
         String text;
-        Scanner scanner = new Scanner (System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Insert a double: ");
         Double a = scanner.nextDouble();
         System.out.println("The inserted number is " + a);
 
+    }
+
+    public void writeToFile(String message, String filePath) {
+        try (
+                FileWriter fw = new FileWriter(filePath);
+                BufferedWriter bw = new BufferedWriter(fw)
+        ) {
+            bw.write(message);
+        } catch (IOException e) {
+            System.out.println(e);
+        }
     }
 }

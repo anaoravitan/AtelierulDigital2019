@@ -5,6 +5,6 @@ public class Main {
         IOOperations ioo = new IOOperations();
         String text  = ioo.readFromFile("C:\\Users\\anama\\Documents\\GOOGLE_JAVA\\src\\lab4\\SecretMessage\\read.txt");
         System.out.println(text);
-        //ioo.readFromFile(text);
+        ioo.writeToFile(text, "C:\\Users\\anama\\Documents\\GOOGLE_JAVA\\src\\lab4\\SecretMessage\\read.txt");
     }
 }

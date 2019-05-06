@@ -2,28 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a496cc3-be9e-4212-adf1-85a35d5277a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Decorator/Whip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Observer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Observer/ObservedSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Observer/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Observer/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Singleton/LazySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/IOO/IOOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/IOO/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/IOO/read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/SecretMessage/IOOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/SecretMessage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/SecretMessage/read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/List/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/List/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/List/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Map/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Map/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/RabbitRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/RabbitThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/lab4/SecretMessage/IOOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigital2019/lab4/SecretMessage/IOOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/lab4/SecretMessage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigital2019/lab4/SecretMessage/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/lab4/SecretMessage/read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigital2019/lab4/SecretMessage/read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/SecretMessage/IOOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/SecretMessage/IOOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/SecretMessage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/SecretMessage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/SecretMessage/read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/SecretMessage/read.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,31 +25,45 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AtelierulDigital2019$Main.ic" NAME="Main Coverage Results" MODIFIED="1555953070128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lab1.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="164" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab7/RabbitRunnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab4/SecretMessage/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/lab7/RabbitThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="34">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab4/SecretMessage/IOOperations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab4/SecretMessage/read.txt">
+        <entry file="file://$PROJECT_DIR$/src/lab7/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="89" selection-start-column="89" selection-end-column="89" />
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -116,13 +123,22 @@
         <option value="$PROJECT_DIR$/src/lab4/SecretMessage/read.txt" />
         <option value="$PROJECT_DIR$/src/lab4/SecretMessage/IOOperations.java" />
         <option value="$PROJECT_DIR$/src/lab4/SecretMessage/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab6/Leader.java" />
+        <option value="$PROJECT_DIR$/src/lab6/Merge.java" />
+        <option value="$PROJECT_DIR$/src/lab6/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab6/List/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab6/Map/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab6/Map/Person.java" />
+        <option value="$PROJECT_DIR$/src/lab7/RabbitRunnable.java" />
+        <option value="$PROJECT_DIR$/src/lab7/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab7/RabbitThread.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="949" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -130,6 +146,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,33 +164,18 @@
               <item name="AtelierulDigital2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="GOOGLE_JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtelierulDigital2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GOOGLE_JAVA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab4" type="462c0819:PsiDirectoryNode" />
-              <item name="IOO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtelierulDigital2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GOOGLE_JAVA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab4" type="462c0819:PsiDirectoryNode" />
-              <item name="SecretMessage" type="462c0819:PsiDirectoryNode" />
+              <item name="lab7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554746368741" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557161659792" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AtelierulDigital2019.iml" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -196,7 +199,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab4.SecretMessage.Main" />
+      <option name="MAIN_CLASS_NAME" value="lab7.Main" />
       <module name="AtelierulDigital2019" />
       <extension name="coverage">
         <pattern>
@@ -236,9 +239,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09392712" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1271255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -247,7 +249,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49878544" visible="true" weight="0.21851853" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" weight="0.21851853" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -264,6 +266,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32955465" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,11 +294,22 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AtelierulDigital2019.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab_1" />
     <entry file="file://$PROJECT_DIR$/src/lab1/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -597,24 +611,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab4/SecretMessage/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab4/SecretMessage/IOOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="255">
+          <caret line="49" column="58" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab4/SecretMessage/read.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="89" selection-start-column="89" selection-end-column="89" />
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab4/SecretMessage/Main.java">
+    <entry file="file://$PROJECT_DIR$/AtelierulDigital2019.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab6/List/Leader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab6/List/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab6/List/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab6/Map/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab6/Map/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab7/RabbitRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab7/RabbitThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
